@@ -1,0 +1,1 @@
+i want a footer themed like the given pic with Logo on the left Social media links with icons on the right A horizontal divider Copyright message below the divider
