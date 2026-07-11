@@ -1,3 +1,4 @@
+/* navbars */
 .navbar {
   display: flex;
   align-items: center;
@@ -41,3 +42,37 @@
 .common-btn:hover {
   background: #2448b5;
 }
+
+
+/* heros */
+.hero {
+  height: 680px;
+  background-image: url("./assets/banner.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+
+.hero-content {
+  max-width: 700px;
+  padding: 20px;
+}
+
+.hero-content h1 {
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+
+
+.hero-content p {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
