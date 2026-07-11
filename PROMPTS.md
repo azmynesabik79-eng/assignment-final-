@@ -1,1 +1,4 @@
-i want a footer themed like the given pic with Logo on the left Social media links with icons on the right A horizontal divider Copyright message below the divider
+since you know its a dev conf website so according to you what should be the next part explain and why.
+ok then give me a design
+code
+also match the colore theme with the footer 
